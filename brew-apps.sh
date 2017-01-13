@@ -7,7 +7,6 @@ brew install homebrew/completions/docker-completion
 brew install homebrew/completions/docker-compose-completion
 
 brew tap caskroom/cask
-brew cask install alfred
 brew cask install atom
 brew cask install dashlane
 brew cask install data-rescue
@@ -32,9 +31,7 @@ brew cask install sky-fonts
 brew cask install skype
 brew cask install slack
 brew cask install soulver
-brew cask install spark
 brew cask install spotify
-brew cask install tower
 brew cask install transmit
 brew cask install vlc
 brew cask install wifi-explorer
